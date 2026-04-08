@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background: #d5e1ef;
+  font-family: Arial;
+}
+
+/* CENTRALIZAR */
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* CARD */
+.card {
+  background: white;
+  width: 250px;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+/* IMAGEM */
+img {
+  width: 100%;
+  border-radius: 10px;
+}
